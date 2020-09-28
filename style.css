@@ -13,6 +13,8 @@ nav a:hover {
     color: red;
 }
 p{
-    width:500px;
+    width:60%;
+    max-width:500px;
     margin: 0 auto;
+    font-size:99%;
 }
